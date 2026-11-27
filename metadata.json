@@ -1,0 +1,8 @@
+{
+  "name": "Vidhi Weds Yash — Royal Wedding Invitation",
+  "description": "A luxury interactive Indian wedding invitation for Vidhi and Yash on 16 & 17 January 2027 at Krishna Resort, Chikhli, Gujarat, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
